@@ -1,5 +1,5 @@
 # interviewing-20-21
-Welcome to the GitHub repository for the Interviewing Team of 20-21!
+**Welcome to the GitHub repository for the Interviewing Team of 20-21!**
 
 Access the Weekly Interviewing Challenges under the `WeeklyChallenges` folder.
 
